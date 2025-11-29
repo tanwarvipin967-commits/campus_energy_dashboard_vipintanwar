@@ -1,0 +1,13 @@
+timestamp,building_name,meter_id,energy_kwh,building
+2024-01-01 00:00,Building A,101,12.5,building_A
+2024-01-01 01:00,Building A,101,11.8,building_A
+2024-01-01 02:00,Building A,101,13.2,building_A
+2024-01-02 00:00,Building A,101,15.1,building_A
+2024-01-02 01:00,Building A,101,14.7,building_A
+2024-01-02 02:00,Building A,101,16.2,building_A
+2024-01-01 00:00,Building B,202,20.3,building_B
+2024-01-01 01:00,Building B,202,19.6,building_B
+2024-01-01 02:00,Building B,202,21.1,building_B
+2024-01-02 00:00,Building B,202,23.4,building_B
+2024-01-02 01:00,Building B,202,22.9,building_B
+2024-01-02 02:00,Building B,202,24.1,building_B
